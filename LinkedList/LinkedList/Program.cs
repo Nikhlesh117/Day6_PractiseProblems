@@ -10,8 +10,11 @@ namespace LinkedList
     {
         public static void Main(string[] args)
         {
-            InBuiltLinkedList linkedList = new InBuiltLinkedList();
-            linkedList.CurdLinkedList();
+            //InBuiltLinkedList linkedList = new InBuiltLinkedList();
+            //linkedList.CurdLinkedList();
+            InBuiltStack stack = new InBuiltStack();
+            stack.CurdStack();
+
             Console.ReadLine();
         }
     }
