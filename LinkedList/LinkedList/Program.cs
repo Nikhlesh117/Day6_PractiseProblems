@@ -12,8 +12,11 @@ namespace LinkedList
         {
             //InBuiltLinkedList linkedList = new InBuiltLinkedList();
             //linkedList.CurdLinkedList();
-            InBuiltStack stack = new InBuiltStack();
-            stack.CurdStack();
+            //InBuiltStack stack = new InBuiltStack();
+            //stack.CurdStack();
+            InBuiltQueue queue = new InBuiltQueue();
+            queue.CurdQueue();
+
 
             Console.ReadLine();
         }

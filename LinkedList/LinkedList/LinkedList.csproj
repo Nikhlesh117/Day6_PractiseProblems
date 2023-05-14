@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="InBuiltLinkedList.cs" />
+    <Compile Include="InBuiltQueue.cs" />
     <Compile Include="InBuiltStack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
